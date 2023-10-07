@@ -1,3 +1,5 @@
+<div align = "center"><img src = "https://i.postimg.cc/j50FZJ90/Hackfest-23.png"/></div>
+
 # Journal: Transaction Manager Flutter App
 
 Welcome to the Daily Transaction Manager Flutter App repository! This Flutter application is
@@ -35,7 +37,11 @@ designed to help you manage your daily Transactions efficiently.
 
 ## Screenshots
 
-![App Screenshot 1](/screenshots/img.png)
+![Home Screen](/screenshots/Home.png)
+![Analytics Yearly Screen](/screenshots/Yearly.png)
+![Analytics Monthly Screen](/screenshots/Monthly.png)
+![Search Screen](/screenshots/Search.png)
+![Preferences Screen](/screenshots/Preferences.png)
 
 ## Getting Started
 
@@ -51,4 +57,18 @@ Follow these steps to get the app up and running on your local machine:
 
 ---
 
-Happy Transaction tracking with the journal-android Flutter App! 📊💰
+### Want to improve it ✨? Feel free to contribute in the repo💥
+
+<br>
+
+### Built with 	❤️ 
+### by Oshaklya
+
+<br>
+
+### Built in 
+![image](https://github.com/DSC-JSS-NOIDA/Doingly/assets/106909291/c3a45572-44f8-4dd1-81a4-70e7f769b7fa)
+
+<br>
+
+#### Happy Transaction tracking with the journal-android Flutter App! 📊💰
